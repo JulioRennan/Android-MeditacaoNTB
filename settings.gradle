@@ -1,0 +1,2 @@
+rootProject.name='MeditacaoNTB'
+include ':app'

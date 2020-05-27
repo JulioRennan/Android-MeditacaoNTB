@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "608009123295",
+    "firebase_url": "https://meditacao-8639b.firebaseio.com",
+    "project_id": "meditacao-8639b",
+    "storage_bucket": "meditacao-8639b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:608009123295:android:50ec2ca893de3e8eb3c06a",
+        "android_client_info": {
+          "package_name": "primeiropp.studio.com.meditacaontb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "608009123295-dqsl3j3mffuqrbpfq6i6va4bfphpncme.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "primeiropp.studio.com.meditacaontb",
+            "certificate_hash": "9a120dd6234908f8ccb82da0dbe1ccb5f15eb341"
+          }
+        },
+        {
+          "client_id": "608009123295-csesnas6p1kocnfo90dik4pdgc8aurln.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkBhs-t9aF2jLH_etdbwhpRl2Vei_DIGs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "608009123295-csesnas6p1kocnfo90dik4pdgc8aurln.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:608009123295:android:d249cce6bfb60dd0b3c06a",
+        "android_client_info": {
+          "package_name": "primeiropp.studio.com.slidefodase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "608009123295-i8o2n25ootq5v88ap0p6gql9qcqsv9m2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "primeiropp.studio.com.slidefodase",
+            "certificate_hash": "9a120dd6234908f8ccb82da0dbe1ccb5f15eb341"
+          }
+        },
+        {
+          "client_id": "608009123295-csesnas6p1kocnfo90dik4pdgc8aurln.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkBhs-t9aF2jLH_etdbwhpRl2Vei_DIGs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "608009123295-csesnas6p1kocnfo90dik4pdgc8aurln.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

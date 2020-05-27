@@ -1,0 +1,48 @@
+<resources xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+   <style name="estilo_texto">
+        <item name = "android:fontFamily">@font/amiri_italic</item>
+       <item name = "android:shadowDx">3</item>
+       <item name="android:shadowDy">3</item>
+       <item name="android:shadowRadius">2</item>
+       <item name="android:text">30sp</item>
+       <item name="android:textSize">20sp</item>
+       <item name="android:gravity">center</item>
+       <item name="android:layout_width">match_parent</item>
+       <item name="android:layout_height">wrap_content</item>
+       <item name="android:layout_margin">20dp</item>
+       <item name="android:padding">20dp</item>
+
+   </style>
+    <style name="cabecalho">
+        <item name="android:layout_marginTop">20dp</item>
+        <item name="fontFamily">@font/amiri_italic</item>
+        <item name="android:textSize">25dp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:padding">20dp</item>
+        <item name="android:background">#FBFBFB</item>
+
+
+    </style>
+    <style name="divider">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:background">#000000</item>
+    </style>
+    <style name="estilo_texto2">
+        <item name = "android:fontFamily">@font/amiri_italic</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">#000000</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:padding">15dp</item>
+    </style>
+</resources>
